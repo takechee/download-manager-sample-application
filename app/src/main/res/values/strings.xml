@@ -2,4 +2,7 @@
     <string name="app_name">DownloadManagerサンプルアプリ</string>
 
     <string name="downloading_file">%1$s をダウンロード中です。</string>
+    <string name="download_done_title">ファイルを保存しました。</string>
+    <string name="download_done_positive">フォルダを開く</string>
+    <string name="download_done_negative">閉じる</string>
 </resources>
